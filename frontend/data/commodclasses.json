@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "commodclass": "Basic commodities"
+  },
+  {
+    "id": 2,
+    "commodclass": "Ship supplies"
+  },
+  {
+    "id": 3,
+    "commodclass": "Herbs"
+  },
+  {
+    "id": 4,
+    "commodclass": "Minerals"
+  },
+  {
+    "id": 5,
+    "commodclass": "Cloth"
+  },
+  {
+    "id": 6,
+    "commodclass": "Dye"
+  },
+  {
+    "id": 7,
+    "commodclass": "Paint"
+  },
+  {
+    "id": 8,
+    "commodclass": "Enamel"
+  },
+  {
+    "id": 9,
+    "commodclass": "Forageables"
+  }
+]

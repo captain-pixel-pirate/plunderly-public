@@ -1,0 +1,454 @@
+{
+  "workers": [
+    {
+      "id": "5740eba3-d555-4d90-90ec-e295c27ec614",
+      "name": "Chimpanze",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:47:08.779Z",
+      "employers": [
+        {
+          "id": "c0adf097-1099-4326-9312-8046c8f6f3f4",
+          "island": "Aimuari",
+          "name": "Rust in Peace",
+          "notes": "",
+          "shoppeType": "ironMonger",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Legendary",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:47:08.779Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:47:08.779Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Distinguished",
+          "output": "Skilled",
+          "lastPuzzleDate": "2025-07-27T23:47:08.779Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:47:08.779Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Proficient",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:47:08.779Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:47:17.885Z",
+      "primaryCraftingSkill": "ironMonger"
+    },
+    {
+      "id": "9b6d9163-5069-42f9-9b2c-5cb0ecf7b9e4",
+      "name": "Nemesis",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:48:45.093Z",
+      "employers": [
+        {
+          "id": "7bc6c3ec-94ef-492c-9092-cd25abe7fa8d",
+          "island": "Aimuari",
+          "name": "Queen Elixabeth",
+          "notes": "",
+          "shoppeType": "apothecary",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Master",
+          "output": "Skilled",
+          "lastPuzzleDate": "2025-07-27T23:48:45.093Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:48:45.093Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Respected",
+          "output": "Skilled",
+          "lastPuzzleDate": "2025-07-27T23:48:45.093Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:48:45.093Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:48:45.093Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:48:50.806Z",
+      "primaryCraftingSkill": "apothecary"
+    },
+    {
+      "id": "49246189-b0d8-4dfe-8c27-4b90b7341b70",
+      "name": "Cleaver",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:50:53.028Z",
+      "employers": [
+        {
+          "id": "c3069fde-178a-4862-80c2-dbcfe49e0951",
+          "island": "Aimuari",
+          "name": "Knot Safe For Work",
+          "notes": "",
+          "shoppeType": "weavery",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Legendary",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:50:53.028Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Ultimate",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:50:53.028Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Ultimate",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:50:53.028Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Grand-Master",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:50:53.028Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Ultimate",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:50:53.028Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:52:52.648Z",
+      "primaryCraftingSkill": "weavery"
+    },
+    {
+      "id": "dcb22520-bc32-43a9-ae24-2448d6d3bc67",
+      "name": "Cronus",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:53:40.377Z",
+      "employers": [
+        {
+          "id": "c0adf097-1099-4326-9312-8046c8f6f3f4",
+          "island": "Aimuari",
+          "name": "Rust in Peace",
+          "notes": "",
+          "shoppeType": "ironMonger",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:53:40.377Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:53:40.377Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:53:40.377Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:53:40.377Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:53:40.377Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:53:40.377Z",
+      "primaryCraftingSkill": "ironMonger"
+    },
+    {
+      "id": "1ccdb766-a40f-4bac-baa5-1bca0257f9de",
+      "name": "Crabbythekid",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:55:25.934Z",
+      "employers": [
+        {
+          "id": "7bc6c3ec-94ef-492c-9092-cd25abe7fa8d",
+          "island": "Aimuari",
+          "name": "Queen Elixabeth",
+          "notes": "",
+          "shoppeType": "apothecary",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Legendary",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:55:25.935Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Distinguished",
+          "output": "Skilled",
+          "lastPuzzleDate": "2025-07-27T23:55:25.935Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Ultimate",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:55:25.935Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Grand-Master",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:55:25.935Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Ultimate",
+          "output": "Expert",
+          "lastPuzzleDate": "2025-07-27T23:55:25.935Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:55:48.854Z",
+      "primaryCraftingSkill": "apothecary"
+    },
+    {
+      "id": "dbc88483-e68c-401e-9917-2a2523ae9e8c",
+      "name": "Demeter",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:57:51.937Z",
+      "employers": [
+        {
+          "id": "c0adf097-1099-4326-9312-8046c8f6f3f4",
+          "island": "Aimuari",
+          "name": "Rust in Peace",
+          "notes": "",
+          "shoppeType": "ironMonger",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:57:51.937Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:57:51.937Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:57:51.937Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:57:51.937Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:57:51.937Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:57:51.937Z",
+      "primaryCraftingSkill": "ironMonger"
+    },
+    {
+      "id": "37e71884-111e-4d76-a106-a45650316ba1",
+      "name": "Forculus",
+      "account": "",
+      "ocean": "Emerald",
+      "badgeType": "Deluxe",
+      "badgePurchaseDate": "2025-07-27T23:58:26.347Z",
+      "employers": [
+        {
+          "id": "c3069fde-178a-4862-80c2-dbcfe49e0951",
+          "island": "Aimuari",
+          "name": "Knot Safe For Work",
+          "notes": "",
+          "shoppeType": "weavery",
+          "shoppeGrade": "Upgraded Shoppe",
+          "pay": {
+            "basic": 35,
+            "skilled": 55,
+            "expert": 75
+          },
+          "workers": []
+        }
+      ],
+      "craftingSkills": {
+        "shipyard": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:58:26.347Z",
+          "active": true
+        },
+        "apothecary": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:58:26.347Z",
+          "active": false
+        },
+        "ironMonger": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:58:26.347Z",
+          "active": false
+        },
+        "distillery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:58:26.347Z",
+          "active": false
+        },
+        "weavery": {
+          "rank": "Able",
+          "output": "Basic",
+          "lastPuzzleDate": "2025-07-27T23:58:26.347Z",
+          "active": false
+        }
+      },
+      "lastUpdated": "2025-07-27T23:58:26.347Z",
+      "primaryCraftingSkill": "weavery"
+    }
+  ],
+  "employers": [
+    {
+      "id": "c0adf097-1099-4326-9312-8046c8f6f3f4",
+      "island": "Aimuari",
+      "name": "Rust in Peace",
+      "notes": "",
+      "shoppeType": "ironMonger",
+      "shoppeGrade": "Upgraded Shoppe",
+      "pay": {
+        "basic": 35,
+        "skilled": 55,
+        "expert": 75
+      },
+      "workers": []
+    },
+    {
+      "id": "c3069fde-178a-4862-80c2-dbcfe49e0951",
+      "island": "Aimuari",
+      "name": "Knot Safe For Work",
+      "notes": "",
+      "shoppeType": "weavery",
+      "shoppeGrade": "Upgraded Shoppe",
+      "pay": {
+        "basic": 35,
+        "skilled": 55,
+        "expert": 75
+      },
+      "workers": []
+    },
+    {
+      "id": "7bc6c3ec-94ef-492c-9092-cd25abe7fa8d",
+      "island": "Aimuari",
+      "name": "Queen Elixabeth",
+      "notes": "",
+      "shoppeType": "apothecary",
+      "shoppeGrade": "Shoppe",
+      "pay": {
+        "basic": 35,
+        "skilled": 55,
+        "expert": 75
+      },
+      "workers": []
+    }
+  ]
+}

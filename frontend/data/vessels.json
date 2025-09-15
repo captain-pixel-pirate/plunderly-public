@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "name": "Sloop",
+    "size": "small",
+    "mass": 13500,
+    "volume": 20250,
+    "cannonSize": "small",
+    "maxPirates": 7,
+    "maxSwabbies": 6,
+    "movesPerTurn": 4,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 60,
+    "maxPillageDamage": {
+      "small": 6,
+      "medium": 4,
+      "large": 3
+    },
+    "maxSinkDamage": {
+      "small": 10,
+      "medium": 6.667,
+      "large": 5
+    },
+    "rockDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    },
+    "ramDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cutter",
+    "size": "small",
+    "mass": 40500,
+    "volume": 60750,
+    "cannonSize": "small",
+    "maxPirates": 12,
+    "maxSwabbies": 11,
+    "movesPerTurn": 4,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 60,
+    "maxPillageDamage": {
+      "small": 7.5,
+      "medium": 5,
+      "large": 3.75
+    },
+    "maxSinkDamage": {
+      "small": 12,
+      "medium": 8,
+      "large": 6
+    },
+    "rockDamage": {
+      "small": 0.625,
+      "medium": 0.417,
+      "large": 0.3125
+    },
+    "ramDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dhow",
+    "size": "small",
+    "mass": 13500,
+    "volume": 20250,
+    "cannonSize": "medium",
+    "maxPirates": 12,
+    "maxSwabbies": 11,
+    "movesPerTurn": 4,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 60,
+    "maxPillageDamage": {
+      "small": 7.5,
+      "medium": 5,
+      "large": 3.75
+    },
+    "maxSinkDamage": {
+      "small": 12,
+      "medium": 8,
+      "large": 6
+    },
+    "rockDamage": {
+      "small": 0.625,
+      "medium": 0.417,
+      "large": 0.3125
+    },
+    "ramDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fanchuan",
+    "size": "small",
+    "mass": 13500,
+    "volume": 20250,
+    "cannonSize": "large",
+    "maxPirates": 12,
+    "maxSwabbies": 11,
+    "movesPerTurn": 3,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 60,
+    "maxPillageDamage": {
+      "small": 7.875,
+      "medium": 5.225,
+      "large": 3.9375
+    },
+    "maxSinkDamage": {
+      "small": 13.125,
+      "medium": 8.75,
+      "large": 6.5625
+    },
+    "rockDamage": {
+      "small": 0.65625,
+      "medium": 0.4375,
+      "large": 0.328125
+    },
+    "ramDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    }
+  },
+  {
+    "id": 5,
+    "name": "Longship",
+    "size": "medium",
+    "mass": 13500,
+    "volume": 20250,
+    "cannonSize": "small",
+    "maxPirates": 15,
+    "maxSwabbies": 14,
+    "movesPerTurn": 4,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 75,
+    "maxPillageDamage": {
+      "small": 9,
+      "medium": 6,
+      "large": 4.5
+    },
+    "maxSinkDamage": {
+      "small": 15,
+      "medium": 10,
+      "large": 7.5
+    },
+    "rockDamage": {
+      "small": 0.75,
+      "medium": 0.5,
+      "large": 0.375
+    },
+    "ramDamage": {
+      "small": 0.5,
+      "medium": 0.333,
+      "large": 0.25
+    }
+  },
+  {
+    "id": 6,
+    "name": "Baghlah",
+    "size": "medium",
+    "mass": 18000,
+    "volume": 27000,
+    "cannonSize": "medium",
+    "maxPirates": 18,
+    "maxSwabbies": 17,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 75,
+    "maxPillageDamage": {
+      "small": 12,
+      "medium": 8,
+      "large": 6
+    },
+    "maxSinkDamage": {
+      "small": 20,
+      "medium": 13.333,
+      "large": 10
+    },
+    "rockDamage": {
+      "small": 1,
+      "medium": 0.667,
+      "large": 0.5
+    },
+    "ramDamage": {
+      "small": 1,
+      "medium": 0.667,
+      "large": 0.5
+    }
+  },
+  {
+    "id": 7,
+    "name": "Merchant Brig",
+    "size": "medium",
+    "mass": 90000,
+    "volume": 135000,
+    "cannonSize": "medium",
+    "maxPirates": 20,
+    "maxSwabbies": 19,
+    "movesPerTurn": 3,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 75,
+    "maxPillageDamage": {
+      "small": 12,
+      "medium": 8,
+      "large": 6
+    },
+    "maxSinkDamage": {
+      "small": 20,
+      "medium": 13.333,
+      "large": 10
+    },
+    "rockDamage": {
+      "small": 1,
+      "medium": 0.667,
+      "large": 0.5
+    },
+    "ramDamage": {
+      "small": 1,
+      "medium": 0.667,
+      "large": 0.5
+    }
+  },
+  {
+    "id": 9,
+    "name": "War Brig",
+    "size": "medium",
+    "mass": 54000,
+    "volume": 81000,
+    "cannonSize": "medium",
+    "maxPirates": 30,
+    "maxSwabbies": 23,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 75,
+    "maxPillageDamage": {
+      "small": 15,
+      "medium": 10,
+      "large": 7.5
+    },
+    "maxSinkDamage": {
+      "small": 25,
+      "medium": 16.667,
+      "large": 12.5
+    },
+    "rockDamage": {
+      "small": 1.25,
+      "medium": 0.833,
+      "large": 0.625
+    },
+    "ramDamage": {
+      "small": 2,
+      "medium": 1.333,
+      "large": 1
+    }
+  },
+  {
+    "id": 8,
+    "name": "Junk",
+    "size": "large",
+    "mass": 18000,
+    "volume": 27000,
+    "cannonSize": "large",
+    "maxPirates": 18,
+    "maxSwabbies": 17,
+    "movesPerTurn": 3,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 85,
+    "maxPillageDamage": {
+      "small": 15,
+      "medium": 10,
+      "large": 7.5
+    },
+    "maxSinkDamage": {
+      "small": 25,
+      "medium": 16.66,
+      "large": 12.5
+    },
+    "rockDamage": {
+      "small": 1.25,
+      "medium": 0.833,
+      "large": 0.625
+    },
+    "ramDamage": {
+      "small": 1.5,
+      "medium": 1,
+      "large": 0.75
+    }
+  },
+  {
+    "id": 10,
+    "name": "Merchant Galleon",
+    "size": "large",
+    "mass": 270000,
+    "volume": 405000,
+    "cannonSize": "large",
+    "maxPirates": 30,
+    "maxSwabbies": 29,
+    "movesPerTurn": 3,
+    "shotsPerMove": 1,
+    "secondsPerLPAtMaxSpeed": 100,
+    "maxPillageDamage": {
+      "small": 18,
+      "medium": 12,
+      "large": 9
+    },
+    "maxSinkDamage": {
+      "small": 30,
+      "medium": 20,
+      "large": 15
+    },
+    "rockDamage": {
+      "small": 1.5,
+      "medium": 1,
+      "large": 0.75
+    },
+    "ramDamage": {
+      "small": 2.5,
+      "medium": 1.667,
+      "large": 1.25
+    }
+  },
+  {
+    "id": 11,
+    "name": "Xebec",
+    "size": "large",
+    "mass": 121500,
+    "volume": 182250,
+    "cannonSize": "medium",
+    "maxPirates": 45,
+    "maxSwabbies": 37,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 100,
+    "maxPillageDamage": {
+      "small": 21,
+      "medium": 14,
+      "large": 10.5
+    },
+    "maxSinkDamage": {
+      "small": 25,
+      "medium": 23.3333,
+      "large": 17.5
+    },
+    "rockDamage": {
+      "small": 1.75,
+      "medium": 1.167,
+      "large": 0.875
+    },
+    "ramDamage": {
+      "small": 2.5,
+      "medium": 1.667,
+      "large": 1.25
+    }
+  },
+  {
+    "id": 12,
+    "name": "War Galleon",
+    "size": "large",
+    "mass": 90000,
+    "volume": 135000,
+    "cannonSize": "large",
+    "maxPirates": 40,
+    "maxSwabbies": 33,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 100,
+    "maxPillageDamage": {
+      "small": 15,
+      "medium": 10,
+      "large": 7.5
+    },
+    "maxSinkDamage": {
+      "small": 25,
+      "medium": 16.667,
+      "large": 12.5
+    },
+    "rockDamage": {
+      "small": 1.75,
+      "medium": 1.167,
+      "large": 0.875
+    },
+    "ramDamage": {
+      "small": 2.5,
+      "medium": 1.667,
+      "large": 1.25
+    }
+  },
+  {
+    "id": 13,
+    "name": "War Frigate",
+    "size": "large",
+    "mass": 216000,
+    "volume": 324000,
+    "cannonSize": "large",
+    "maxPirates": 75,
+    "maxSwabbies": 55,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 100,
+    "maxPillageDamage": {
+      "small": 30,
+      "medium": 20,
+      "large": 15
+    },
+    "maxSinkDamage": {
+      "small": 50,
+      "medium": 33.333,
+      "large": 25
+    },
+    "rockDamage": {
+      "small": 2.5,
+      "medium": 1.667,
+      "large": 1.25
+    },
+    "ramDamage": {
+      "small": 3,
+      "medium": 2,
+      "large": 1.5
+    }
+  },
+  {
+    "id": 14,
+    "name": "Grand Frigate",
+    "size": "large",
+    "mass": 540000,
+    "volume": 810000,
+    "cannonSize": "large",
+    "maxPirates": 159,
+    "maxSwabbies": 76,
+    "movesPerTurn": 3,
+    "shotsPerMove": 2,
+    "secondsPerLPAtMaxSpeed": 100,
+    "maxPillageDamage": {
+      "small": 36,
+      "medium": 24,
+      "large": 18
+    },
+    "maxSinkDamage": {
+      "small": 60,
+      "medium": 40,
+      "large": 30
+    },
+    "rockDamage": {
+      "small": 3,
+      "medium": 2,
+      "large": 1.5
+    },
+    "ramDamage": {
+      "small": 4,
+      "medium": 2.667,
+      "large": 2
+    }
+  }
+]

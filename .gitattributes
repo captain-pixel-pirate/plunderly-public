@@ -1,0 +1,31 @@
+# Never include secrets or local env in archives
+.env                export-ignore
+.env.*              export-ignore
+*.env               export-ignore
+*.env.*             export-ignore
+
+# Infra/CI/private docs you don’t want public
+.github/            export-ignore
+.gitlab/            export-ignore
+.gitlab-ci.yml      export-ignore
+.circleci/          export-ignore
+azure-pipelines.yml export-ignore
+private-docs/       export-ignore
+internal-scripts/   export-ignore
+ops/                export-ignore
+infra/              export-ignore
+scripts/private/    export-ignore
+tests/private/      export-ignore
+
+# Editor/OS clutter (belt-and-suspenders with script)
+.vscode/            export-ignore
+.idea/              export-ignore
+.DS_Store           export-ignore
+Thumbs.db           export-ignore
+Desktop.ini         export-ignore
+
+# Build artifacts (if you don’t want to ship compiled dirs)
+dist/               export-ignore
+build/              export-ignore
+.next/              export-ignore
+local/              export-ignore

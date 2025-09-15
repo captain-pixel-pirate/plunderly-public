@@ -1,0 +1,12 @@
+{
+  "name": "refresh-job",
+  "version": "1.0.0",
+  "main": "taxes-refresh.js",
+  "scripts": {
+    "start": "node taxes-refresh.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7"
+  }
+}

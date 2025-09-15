@@ -1,0 +1,1178 @@
+[
+  {
+    "resource": "Hemp",
+    "type": "Basic Commodity",
+    "mass": "125",
+    "volume": "250",
+    "pricePerUnit": 7
+  },
+  {
+    "resource": "Hemp oil",
+    "type": "Basic Commodity",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 29
+  },
+  {
+    "resource": "Iron",
+    "type": "Basic Commodity",
+    "mass": "7.8",
+    "volume": "1",
+    "pricePerUnit": 13
+  },
+  {
+    "resource": "Kraken's ink",
+    "type": "Basic Commodity",
+    "mass": "0.1",
+    "volume": "1",
+    "pricePerUnit": 694
+  },
+  {
+    "resource": "Lacquer",
+    "type": "Basic Commodity",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 385
+  },
+  {
+    "resource": "Stone",
+    "type": "Basic Commodity",
+    "mass": "2.6",
+    "volume": "1",
+    "pricePerUnit": 2
+  },
+  {
+    "resource": "Sugar cane",
+    "type": "Basic Commodity",
+    "mass": "50",
+    "volume": "100",
+    "pricePerUnit": 7
+  },
+  {
+    "resource": "Varnish",
+    "type": "Basic Commodity",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 52
+  },
+  {
+    "resource": "Wood",
+    "type": "Basic Commodity",
+    "mass": "175",
+    "volume": "250",
+    "pricePerUnit": 30
+  },
+  {
+    "resource": "Allspice",
+    "type": "Herbs",
+    "mass": "0.4",
+    "volume": "1",
+    "pricePerUnit": 1195
+  },
+  {
+    "resource": "Broom flower",
+    "type": "Herbs",
+    "mass": "0.2",
+    "volume": "1",
+    "pricePerUnit": 1448
+  },
+  {
+    "resource": "Butterfly weed",
+    "type": "Herbs",
+    "mass": "0.1",
+    "volume": "1",
+    "pricePerUnit": 579
+  },
+  {
+    "resource": "Cowslip",
+    "type": "Herbs",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 7
+  },
+  {
+    "resource": "Elderberries",
+    "type": "Herbs",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 180
+  },
+  {
+    "resource": "Indigo",
+    "type": "Herbs",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 1979
+  },
+  {
+    "resource": "Iris root",
+    "type": "Herbs",
+    "mass": "0.3",
+    "volume": "1",
+    "pricePerUnit": 60
+  },
+  {
+    "resource": "Lily of the valley",
+    "type": "Herbs",
+    "mass": "0.3",
+    "volume": "1",
+    "pricePerUnit": 44
+  },
+  {
+    "resource": "Lobelia",
+    "type": "Herbs",
+    "mass": "0.2",
+    "volume": "1",
+    "pricePerUnit": 949
+  },
+  {
+    "resource": "Madder",
+    "type": "Herbs",
+    "mass": "0.4",
+    "volume": "1",
+    "pricePerUnit": 281
+  },
+  {
+    "resource": "Nettle",
+    "type": "Herbs",
+    "mass": "0.3",
+    "volume": "1",
+    "pricePerUnit": 148
+  },
+  {
+    "resource": "Old man's beard",
+    "type": "Herbs",
+    "mass": "0.8",
+    "volume": "1",
+    "pricePerUnit": 16
+  },
+  {
+    "resource": "Pokeweed berries",
+    "type": "Herbs",
+    "mass": "0.3",
+    "volume": "1",
+    "pricePerUnit": 1358
+  },
+  {
+    "resource": "Sassafras",
+    "type": "Herbs",
+    "mass": "0.5",
+    "volume": "1",
+    "pricePerUnit": 4250
+  },
+  {
+    "resource": "Weld",
+    "type": "Herbs",
+    "mass": "0.3",
+    "volume": "1",
+    "pricePerUnit": 110
+  },
+  {
+    "resource": "Yarrow",
+    "type": "Herbs",
+    "mass": "0.2",
+    "volume": "1",
+    "pricePerUnit": 2893
+  },
+  {
+    "resource": "Chalcocite",
+    "type": "Minerals",
+    "mass": "5.7",
+    "volume": "1",
+    "pricePerUnit": 1017
+  },
+  {
+    "resource": "Cubanite",
+    "type": "Minerals",
+    "mass": "4.7",
+    "volume": "1",
+    "pricePerUnit": 74
+  },
+  {
+    "resource": "Gold nuggets",
+    "type": "Minerals",
+    "mass": "0.4",
+    "volume": "1",
+    "pricePerUnit": 4100
+  },
+  {
+    "resource": "Lorandite",
+    "type": "Minerals",
+    "mass": "5.5",
+    "volume": "1",
+    "pricePerUnit": 3200
+  },
+  {
+    "resource": "Leushite",
+    "type": "Minerals",
+    "mass": "4.4",
+    "volume": "1",
+    "pricePerUnit": 2200
+  },
+  {
+    "resource": "Masuyite",
+    "type": "Minerals",
+    "mass": "5.1",
+    "volume": "1",
+    "pricePerUnit": 1795
+  },
+  {
+    "resource": "Papagoite",
+    "type": "Minerals",
+    "mass": "3.3",
+    "volume": "1",
+    "pricePerUnit": 1225
+  },
+  {
+    "resource": "Serandite",
+    "type": "Minerals",
+    "mass": "3.4",
+    "volume": "1",
+    "pricePerUnit": 347
+  },
+  {
+    "resource": "Sincosite",
+    "type": "Minerals",
+    "mass": "3",
+    "volume": "1",
+    "pricePerUnit": 130
+  },
+  {
+    "resource": "Tellurium",
+    "type": "Minerals",
+    "mass": "6.2",
+    "volume": "1",
+    "pricePerUnit": 43
+  },
+  {
+    "resource": "Thorianite",
+    "type": "Minerals",
+    "mass": "0.1",
+    "volume": "1",
+    "pricePerUnit": 634
+  },
+  {
+    "resource": "Bananas",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Carambolas",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Coconuts",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Durians",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Limes",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 10
+  },
+  {
+    "resource": "Mangos",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Passion fruit",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Pineapples",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Pomegranates",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Rambutan",
+    "type": "Forageables",
+    "mass": "125",
+    "volume": "100",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Swill",
+    "type": "Ship Supplies",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 24
+  },
+  {
+    "resource": "Grog",
+    "type": "Ship Supplies",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 39
+  },
+  {
+    "resource": "Fine rum",
+    "type": "Ship Supplies",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 72
+  },
+  {
+    "resource": "Rum Spice",
+    "type": "Ship Supplies",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 1
+  },
+  {
+    "resource": "Small cannon balls",
+    "type": "Ship Supplies",
+    "mass": "7.1",
+    "volume": "1",
+    "pricePerUnit": 21
+  },
+  {
+    "resource": "Medium cannon balls",
+    "type": "Ship Supplies",
+    "mass": "14.2",
+    "volume": "2",
+    "pricePerUnit": 49
+  },
+  {
+    "resource": "Large cannon balls",
+    "type": "Ship Supplies",
+    "mass": "21.3",
+    "volume": "3",
+    "pricePerUnit": 62
+  },
+  {
+    "resource": "Lifeboats",
+    "type": "Ship Supplies",
+    "mass": "25",
+    "volume": "100",
+    "pricePerUnit": 620
+  },
+  {
+    "resource": "Aqua cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 121
+  },
+  {
+    "resource": "Black cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 3600
+  },
+  {
+    "resource": "Blue cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 124
+  },
+  {
+    "resource": "Brown cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 33
+  },
+  {
+    "resource": "Gold cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 10100
+  },
+  {
+    "resource": "Green cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 97
+  },
+  {
+    "resource": "Grey cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 142
+  },
+  {
+    "resource": "Lavender cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 247
+  },
+  {
+    "resource": "Lemon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 70
+  },
+  {
+    "resource": "Light blue cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 131
+  },
+  {
+    "resource": "Light green cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 185
+  },
+  {
+    "resource": "Lime cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 87
+  },
+  {
+    "resource": "Magenta cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 273
+  },
+  {
+    "resource": "Maroon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 448
+  },
+  {
+    "resource": "Mint cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 96
+  },
+  {
+    "resource": "Navy cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 344
+  },
+  {
+    "resource": "Orange cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 198
+  },
+  {
+    "resource": "Peach cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 194
+  },
+  {
+    "resource": "Persimmon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 320
+  },
+  {
+    "resource": "Pink cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 180
+  },
+  {
+    "resource": "Purple cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 579
+  },
+  {
+    "resource": "Red cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 170
+  },
+  {
+    "resource": "Rose cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 224
+  },
+  {
+    "resource": "Tan cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 37
+  },
+  {
+    "resource": "Violet cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 235
+  },
+  {
+    "resource": "White cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 54
+  },
+  {
+    "resource": "Yellow cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 73
+  },
+  {
+    "resource": "Fine aqua cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 248
+  },
+  {
+    "resource": "Fine black cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 5199
+  },
+  {
+    "resource": "Fine blue cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 239
+  },
+  {
+    "resource": "Fine brown cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 54
+  },
+  {
+    "resource": "Fine gold cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 14500
+  },
+  {
+    "resource": "Fine green cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 179
+  },
+  {
+    "resource": "Fine grey cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 270
+  },
+  {
+    "resource": "Fine lavender cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 520
+  },
+  {
+    "resource": "Fine lemon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 146
+  },
+  {
+    "resource": "Fine light blue cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 260
+  },
+  {
+    "resource": "Fine light green cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 382
+  },
+  {
+    "resource": "Fine lime cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 165
+  },
+  {
+    "resource": "Fine magenta cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 588
+  },
+  {
+    "resource": "Fine maroon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 838
+  },
+  {
+    "resource": "Fine mint cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 189
+  },
+  {
+    "resource": "Fine navy cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 524
+  },
+  {
+    "resource": "Fine orange cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 383
+  },
+  {
+    "resource": "Fine peach cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 399
+  },
+  {
+    "resource": "Fine persimmon cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 515
+  },
+  {
+    "resource": "Fine pink cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 383
+  },
+  {
+    "resource": "Fine purple cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 1203
+  },
+  {
+    "resource": "Fine red cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 334
+  },
+  {
+    "resource": "Fine rose cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 425
+  },
+  {
+    "resource": "Fine tan cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 54
+  },
+  {
+    "resource": "Fine violet cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 452
+  },
+  {
+    "resource": "Fine white cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 84
+  },
+  {
+    "resource": "Fine yellow cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 124
+  },
+  {
+    "resource": "Sail cloth",
+    "type": "Cloth",
+    "mass": "0.7",
+    "volume": "1",
+    "pricePerUnit": 43
+  },
+  {
+    "resource": "Blue dye",
+    "type": "Dyes",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 850
+  },
+  {
+    "resource": "Green dye",
+    "type": "Dyes",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 600
+  },
+  {
+    "resource": "Kraken's blood",
+    "type": "Dyes",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 13499
+  },
+  {
+    "resource": "Red dye",
+    "type": "Dyes",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 1277
+  },
+  {
+    "resource": "Yellow dye",
+    "type": "Dyes",
+    "mass": "1",
+    "volume": "1",
+    "pricePerUnit": 440
+  },
+  {
+    "resource": "Aqua enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 41
+  },
+  {
+    "resource": "Black enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 3948
+  },
+  {
+    "resource": "Blue enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 206
+  },
+  {
+    "resource": "Brown enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 29
+  },
+  {
+    "resource": "Gold enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 13798
+  },
+  {
+    "resource": "Green enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 131
+  },
+  {
+    "resource": "Grey enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 67
+  },
+  {
+    "resource": "Lavender enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1077
+  },
+  {
+    "resource": "Lemon enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 110
+  },
+  {
+    "resource": "Light blue enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 209
+  },
+  {
+    "resource": "Light green enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 118
+  },
+  {
+    "resource": "Lime enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 78
+  },
+  {
+    "resource": "Magenta enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1699
+  },
+  {
+    "resource": "Maroon enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 300
+  },
+  {
+    "resource": "Mint enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 146
+  },
+  {
+    "resource": "Navy enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1848
+  },
+  {
+    "resource": "Orange enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 498
+  },
+  {
+    "resource": "Peach enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 549
+  },
+  {
+    "resource": "Persimmon enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 846
+  },
+  {
+    "resource": "Pink enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1546
+  },
+  {
+    "resource": "Purple enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1079
+  },
+  {
+    "resource": "Red enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 295
+  },
+  {
+    "resource": "Rose enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 1300
+  },
+  {
+    "resource": "Tan enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 92
+  },
+  {
+    "resource": "Violet enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 677
+  },
+  {
+    "resource": "White enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 2769
+  },
+  {
+    "resource": "Yellow enamel",
+    "type": "Enamels",
+    "mass": "5",
+    "volume": "1",
+    "pricePerUnit": 105
+  },
+  {
+    "resource": "Aqua paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 336
+  },
+  {
+    "resource": "Black paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 1930
+  },
+  {
+    "resource": "Blue paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 297
+  },
+  {
+    "resource": "Brown paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 305
+  },
+  {
+    "resource": "Gold paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 4300
+  },
+  {
+    "resource": "Green paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 295
+  },
+  {
+    "resource": "Grey paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 329
+  },
+  {
+    "resource": "Lavender paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 414
+  },
+  {
+    "resource": "Lemon paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 279
+  },
+  {
+    "resource": "Light blue paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 337
+  },
+  {
+    "resource": "Light green paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 320
+  },
+  {
+    "resource": "Lime paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 298
+  },
+  {
+    "resource": "Magenta paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 577
+  },
+  {
+    "resource": "Maroon paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 343
+  },
+  {
+    "resource": "Mint paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 310
+  },
+  {
+    "resource": "Navy paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 534
+  },
+  {
+    "resource": "Orange paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 344
+  },
+  {
+    "resource": "Peach paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 337
+  },
+  {
+    "resource": "Persimmon paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 338
+  },
+  {
+    "resource": "Pink paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 397
+  },
+  {
+    "resource": "Purple paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 629
+  },
+  {
+    "resource": "Red paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 326
+  },
+  {
+    "resource": "Rose paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 510
+  },
+  {
+    "resource": "Tan paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 40
+  },
+  {
+    "resource": "Violet paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 354
+  },
+  {
+    "resource": "White paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 289
+  },
+  {
+    "resource": "Yellow paint",
+    "type": "Paints",
+    "mass": "1.2",
+    "volume": "1",
+    "pricePerUnit": 298
+  }
+]

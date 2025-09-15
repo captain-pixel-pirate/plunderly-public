@@ -1,0 +1,57 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@components/*": ["components/*"],
+      "@components/home/*": ["components/home/*"],
+      "@components/appbar/*": ["components/appbar/*"],
+      "@components/firstMate/*": ["components/firstmate/*"],
+      "@components/recipes/*": ["components/recipes/*"],
+      "@components/markets/*": ["components/markets/*"],
+      "@components/greedycounter/*": ["components/greedycounter/*"],
+      "@components/labormanagement/*": ["components/labormanagement/*"],
+      "@ux/*": ["ux/*"],
+      
+      "@context/*": ["context/*"],
+      "@context": ["context/index.ts"],
+
+      "@data/*": ["data/*"],
+      "@data": ["data/index.ts"],
+
+      "@interfaces/*": ["interfaces/*"],
+      "@interfaces": ["interfaces/index.ts"],
+
+      "@utils/*": ["utils/*"],
+      "@utils": ["utils/index.ts"],
+
+      "@hooks/*": ["hooks/*"],
+      "@hooks": ["hooks/index.ts"],
+
+      "@theme/*": ["theme/*"],
+      "@theme": ["theme/theme.ts"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/recipes/RecipePieChart.jsx", "sandbox/parser.js", "components/appbar/SideBar.jsx"],
+  "exclude": ["node_modules"]
+}

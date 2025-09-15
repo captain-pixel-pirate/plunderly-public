@@ -1,0 +1,8942 @@
+[
+  {
+    "id": 1,
+    "type": "shipyard",
+    "item": "Lifeboats",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 50,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 30,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 85,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 10,
+          "commodname": "Grog",
+          "commodclassid": 2,
+          "commodclass": {
+            "id": 2,
+            "commodclass": "Ship supplies"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "shipyard",
+    "item": "Sloop",
+    "units": 1,
+    "doubloons": 20,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "shipyard",
+    "item": "Sloop Mark II",
+    "units": 1,
+    "doubloons": 30,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 30,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "shipyard",
+    "item": "Cutter",
+    "units": 1,
+    "doubloons": 30,
+    "basic": 250,
+    "skilled": 100,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 100,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "shipyard",
+    "item": "Dhow",
+    "units": 1,
+    "doubloons": 32,
+    "basic": 200,
+    "skilled": 125,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 125,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 8,
+          "commodname": "Lacquer",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 25,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "shipyard",
+    "item": "Fanchuan",
+    "units": 1,
+    "doubloons": 32,
+    "basic": 200,
+    "skilled": 125,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 175,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "shipyard",
+    "item": "Longship",
+    "units": 1,
+    "doubloons": 36,
+    "basic": 250,
+    "skilled": 150,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 175,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 350,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "shipyard",
+    "item": "Baghlah",
+    "units": 1,
+    "doubloons": 38,
+    "basic": 300,
+    "skilled": 175,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 8,
+          "commodname": "Lacquer",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 350,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "shipyard",
+    "item": "Junk",
+    "units": 1,
+    "doubloons": 38,
+    "basic": 300,
+    "skilled": 175,
+    "expert": 70,
+    "commods": [
+      {
+        "units": 200,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "shipyard",
+    "item": "Merchant Brig",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 400,
+    "skilled": 150,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 125,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "shipyard",
+    "item": "War Brig",
+    "units": 1,
+    "doubloons": 50,
+    "basic": 400,
+    "skilled": 200,
+    "expert": 90,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "shipyard",
+    "item": "Merchant Galleon",
+    "units": 1,
+    "doubloons": 60,
+    "basic": 650,
+    "skilled": 375,
+    "expert": 125,
+    "commods": [
+      {
+        "units": 225,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 325,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 600,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "shipyard",
+    "item": "War Galleon",
+    "units": 1,
+    "doubloons": 60,
+    "basic": 525,
+    "skilled": 350,
+    "expert": 115,
+    "commods": [
+      {
+        "units": 210,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 8,
+          "commodname": "Lacquer",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 300,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 180,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 550,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "shipyard",
+    "item": "Xebec",
+    "units": 1,
+    "doubloons": 55,
+    "basic": 525,
+    "skilled": 350,
+    "expert": 115,
+    "commods": [
+      {
+        "units": 210,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 8,
+          "commodname": "Lacquer",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 300,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 180,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 560,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "shipyard",
+    "item": "War Frigate",
+    "units": 1,
+    "doubloons": 75,
+    "basic": 700,
+    "skilled": 450,
+    "expert": 175,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 650,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "shipyard",
+    "item": "Grand Frigate",
+    "units": 1,
+    "doubloons": 100,
+    "basic": 1200,
+    "skilled": 850,
+    "expert": 350,
+    "commods": [
+      {
+        "units": 500,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 600,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 1200,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "shipyard",
+    "item": "Cursed Sloop",
+    "units": 1,
+    "doubloons": 20,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 20,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 111,
+          "commodname": "Purple paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 113,
+          "commodname": "Blue paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "shipyard",
+    "item": "Vampirate Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 80,
+        "commod": {
+          "id": 103,
+          "commodname": "Red paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 80,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "shipyard",
+    "item": "Rogue Sloop",
+    "units": 1,
+    "doubloons": 20,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 20,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "shipyard",
+    "item": "Rogue Dhow",
+    "units": 1,
+    "doubloons": 32,
+    "basic": 200,
+    "skilled": 125,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 125,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 8,
+          "commodname": "Lacquer",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 25,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "shipyard",
+    "item": "Rogue War Brig",
+    "units": 1,
+    "doubloons": 50,
+    "basic": 400,
+    "skilled": 200,
+    "expert": 90,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 60,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 90,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "shipyard",
+    "item": "Rogue War Frigate",
+    "units": 1,
+    "doubloons": 75,
+    "basic": 700,
+    "skilled": 450,
+    "expert": 175,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 650,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 100,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "shipyard",
+    "item": "Rogue Grand Frigate",
+    "units": 1,
+    "doubloons": 100,
+    "basic": 1200,
+    "skilled": 850,
+    "expert": 350,
+    "commods": [
+      {
+        "units": 500,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 600,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 1200,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "shipyard",
+    "item": "Atlantean War Frigate",
+    "units": 1,
+    "doubloons": 75,
+    "basic": 700,
+    "skilled": 450,
+    "expert": 175,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 650,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 113,
+          "commodname": "Blue paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 100,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 100,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 108,
+          "commodname": "Yellow paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "shipyard",
+    "item": "Frost Longship",
+    "units": 1,
+    "doubloons": 36,
+    "basic": 250,
+    "skilled": 150,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 175,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 43,
+          "commodname": "Tan cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 350,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 128,
+          "commodname": "Light blue paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "shipyard",
+    "item": "Haunted War Brig",
+    "units": 1,
+    "doubloons": 50,
+    "basic": 400,
+    "skilled": 200,
+    "expert": 90,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 250,
+        "commod": {
+          "id": 112,
+          "commodname": "Navy paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "shipyard",
+    "item": "Gold Sloop",
+    "units": 1,
+    "doubloons": 20,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 30,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 120,
+          "commodname": "Gold paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 40,
+        "commod": {
+          "id": 108,
+          "commodname": "Yellow paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 25,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 35,
+          "commodname": "Cubanite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "type": "shipyard",
+    "item": "Gold War Brig",
+    "units": 1,
+    "doubloons": 50,
+    "basic": 350,
+    "skilled": 220,
+    "expert": 100,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 120,
+          "commodname": "Gold paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 108,
+          "commodname": "Yellow paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 35,
+          "commodname": "Cubanite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "type": "shipyard",
+    "item": "Gold War Frigate",
+    "units": 1,
+    "doubloons": 75,
+    "basic": 700,
+    "skilled": 450,
+    "expert": 175,
+    "commods": [
+      {
+        "units": 250,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 400,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 650,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 120,
+          "commodname": "Gold paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 70,
+        "commod": {
+          "id": 108,
+          "commodname": "Yellow paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 60,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 35,
+          "commodname": "Cubanite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "type": "shipyard",
+    "item": "Gingerbread War Brig",
+    "units": 1,
+    "doubloons": 100,
+    "basic": 350,
+    "skilled": 220,
+    "expert": 150,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 7,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 25,
+        "commod": {
+          "id": 1,
+          "commodname": "Sugar cane",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 115,
+          "commodname": "Lime paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 70,
+        "commod": {
+          "id": 103,
+          "commodname": "Red paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "type": "shipyard",
+    "item": "Smuggler War Brig",
+    "units": 1,
+    "doubloons": 80,
+    "basic": 350,
+    "skilled": 220,
+    "expert": 150,
+    "commods": [
+      {
+        "units": 150,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 200,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 450,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 150,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 100,
+        "commod": {
+          "id": 119,
+          "commodname": "Brown paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "type": "shipyard",
+    "item": "Lovestruck Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 30,
+          "commodname": "Lorandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 70,
+        "commod": {
+          "id": 105,
+          "commodname": "White paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 118,
+          "commodname": "Maroon paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "shipyard",
+    "item": "Celestial Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 90,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 60,
+        "commod": {
+          "id": 107,
+          "commodname": "Grey paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 40,
+        "commod": {
+          "id": 113,
+          "commodname": "Blue paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 112,
+          "commodname": "Navy paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 8,
+        "commod": {
+          "id": 37,
+          "commodname": "Papagoite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "shipyard",
+    "item": "Howl Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 31,
+          "commodname": "Leushite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 38,
+          "commodname": "Sincosite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 33,
+          "commodname": "Thorianite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 119,
+          "commodname": "Brown paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 116,
+          "commodname": "Green paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 106,
+          "commodname": "Black paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "shipyard",
+    "item": "Undead Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 90,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 100,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 50,
+        "commod": {
+          "id": 116,
+          "commodname": "Green paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 30,
+        "commod": {
+          "id": 116,
+          "commodname": "Purple paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 38,
+          "commodname": "Sincosite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "shipyard",
+    "item": "Harvest Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 39,
+          "commodname": "Masuyite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 70,
+        "commod": {
+          "id": 119,
+          "commodname": "Brown paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 70,
+        "commod": {
+          "id": 129,
+          "commodname": "Persimmon paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "shipyard",
+    "item": "Scrooge Sloop",
+    "units": 1,
+    "doubloons": 40,
+    "basic": 160,
+    "skilled": 60,
+    "expert": 50,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 75,
+        "commod": {
+          "id": 85,
+          "commodname": "Sail cloth",
+          "commodclassid": 5,
+          "commodclass": {
+            "id": 5,
+            "commodclass": "Cloth"
+          }
+        }
+      },
+      {
+        "units": 66,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 80,
+        "commod": {
+          "id": 118,
+          "commodname": "Maroon paint",
+          "commodclassid": 7,
+          "commodclass": {
+            "id": 7,
+            "commodclass": "Paint"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 30,
+          "commodname": "Lorandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "type": "apothecary",
+    "item": "Rum spice",
+    "units": 20,
+    "doubloons": 0,
+    "basic": 3,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 189,
+          "commodname": "Allspice",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "apothecary",
+    "item": "Aqua paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "apothecary",
+    "item": "Black paint",
+    "units": 12,
+    "doubloons": 2,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 99,
+          "commodname": "Kraken's blood",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "type": "apothecary",
+    "item": "Blue paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "type": "apothecary",
+    "item": "Brown paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "apothecary",
+    "item": "Gold paint",
+    "units": 12,
+    "doubloons": 2,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "apothecary",
+    "item": "Green paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "apothecary",
+    "item": "Grey paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "apothecary",
+    "item": "Lavender paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "type": "apothecary",
+    "item": "Lemon paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "apothecary",
+    "item": "Light blue paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "type": "apothecary",
+    "item": "Light green paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "type": "apothecary",
+    "item": "Lime paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "type": "apothecary",
+    "item": "Magenta paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "apothecary",
+    "item": "Maroon paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "apothecary",
+    "item": "Mint paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "apothecary",
+    "item": "Navy paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 24,
+          "commodname": "Indigo",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "type": "apothecary",
+    "item": "Orange paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "apothecary",
+    "item": "Peach paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "type": "apothecary",
+    "item": "Persimmon paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "type": "apothecary",
+    "item": "Pink paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "type": "apothecary",
+    "item": "Purple paint",
+    "units": 12,
+    "doubloons": 2,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "type": "apothecary",
+    "item": "Red paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "apothecary",
+    "item": "Rose paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "apothecary",
+    "item": "Tan paint",
+    "units": 12,
+    "doubloons": 0,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "type": "apothecary",
+    "item": "Violet paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 22,
+          "commodname": "Lobelia",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "type": "apothecary",
+    "item": "White paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "apothecary",
+    "item": "Yellow paint",
+    "units": 12,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "apothecary",
+    "item": "Figure elixir",
+    "units": 1,
+    "doubloons": 4,
+    "basic": 1,
+    "skilled": 3,
+    "expert": 4,
+    "commods": [
+      {
+        "units": 3,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 18,
+          "commodname": "Sassafras",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 17,
+          "commodname": "Yarrow",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "type": "apothecary",
+    "item": "Skintone elixir",
+    "units": 1,
+    "doubloons": 7,
+    "basic": 1,
+    "skilled": 3,
+    "expert": 4,
+    "commods": [
+      {
+        "units": 3,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 18,
+          "commodname": "Sassafras",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 17,
+          "commodname": "Yarrow",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "apothecary",
+    "item": "Universal hair dye",
+    "units": 1,
+    "doubloons": 1,
+    "basic": 1,
+    "skilled": 3,
+    "expert": 4,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 18,
+          "commodname": "Sassafras",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 17,
+          "commodname": "Yarrow",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "apothecary",
+    "item": "Hair control tonic",
+    "units": 1,
+    "doubloons": 4,
+    "basic": 1,
+    "skilled": 3,
+    "expert": 4,
+    "commods": [
+      {
+        "units": 3,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 24,
+          "commodname": "Indigo",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 22,
+          "commodname": "Lobelia",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "type": "apothecary",
+    "item": "Beard control wax",
+    "units": 1,
+    "doubloons": 4,
+    "basic": 1,
+    "skilled": 3,
+    "expert": 4,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 24,
+          "commodname": "Indigo",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 22,
+          "commodname": "Lobelia",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "type": "apothecary",
+    "item": "Leg regenerating draught",
+    "units": 1,
+    "doubloons": 3,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "type": "apothecary",
+    "item": "Hand regrowth salve",
+    "units": 1,
+    "doubloons": 3,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "type": "apothecary",
+    "item": "Patch-eye remedy",
+    "units": 1,
+    "doubloons": 3,
+    "basic": 5,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "type": "apothecary",
+    "item": "Starfish repellent",
+    "units": 1,
+    "doubloons": 3,
+    "basic": 5,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "type": "apothecary",
+    "item": "Whisking Potion (9 swigs)",
+    "units": 9,
+    "doubloons": 1,
+    "basic": 2,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 35,
+          "commodname": "Cubanite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "apothecary",
+    "item": "Whisking Potion (45 swigs)",
+    "units": 45,
+    "doubloons": 5,
+    "basic": 10,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 5,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 35,
+          "commodname": "Cubanite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "apothecary",
+    "item": "Varnish",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "apothecary",
+    "item": "Paint brush",
+    "units": 1,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "apothecary",
+    "item": "Lacquer",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 18,
+        "commod": {
+          "id": 6,
+          "commodname": "Hemp oil",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 22,
+          "commodname": "Lobelia",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "apothecary",
+    "item": "Blue dye",
+    "units": 5,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "apothecary",
+    "item": "Green dye",
+    "units": 5,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "apothecary",
+    "item": "Red dye",
+    "units": 5,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "apothecary",
+    "item": "Yellow dye",
+    "units": 5,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "apothecary",
+    "item": "Kraken's blood",
+    "units": 1,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 186,
+          "commodname": "Kraken's ink",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "apothecary",
+    "item": "Aqua enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 26,
+          "commodname": "Cowslip",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "apothecary",
+    "item": "Black enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 18,
+          "commodname": "Sassafras",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "apothecary",
+    "item": "Blue enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "apothecary",
+    "item": "Brown enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "apothecary",
+    "item": "Gold enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "apothecary",
+    "item": "Green enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "apothecary",
+    "item": "Grey enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "apothecary",
+    "item": "Lavender enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "apothecary",
+    "item": "Lemon enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "apothecary",
+    "item": "Light blue enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 25,
+          "commodname": "Elderberries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "apothecary",
+    "item": "Light green enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "apothecary",
+    "item": "Lime enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 27,
+          "commodname": "Lily of the valley",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "apothecary",
+    "item": "Magenta enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "apothecary",
+    "item": "Maroon enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "apothecary",
+    "item": "Mint enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 28,
+          "commodname": "Nettle",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "type": "apothecary",
+    "item": "Navy enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 24,
+          "commodname": "Indigo",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "type": "apothecary",
+    "item": "Orange enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "type": "apothecary",
+    "item": "Peach enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "type": "apothecary",
+    "item": "Persimmon enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 29,
+          "commodname": "Butterfly weed",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "type": "apothecary",
+    "item": "Pink enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "type": "apothecary",
+    "item": "Purple enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 0,
+    "skilled": 1,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 23,
+          "commodname": "Pokeweed berries",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "type": "apothecary",
+    "item": "Red enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "type": "apothecary",
+    "item": "Rose enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 21,
+          "commodname": "Broom flower",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 15,
+          "commodname": "Madder",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "type": "apothecary",
+    "item": "Tan enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 6,
+        "commod": {
+          "id": 19,
+          "commodname": "Iris root",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "type": "apothecary",
+    "item": "Violet enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 1,
+    "skilled": 1,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 22,
+          "commodname": "Lobelia",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "type": "apothecary",
+    "item": "White enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 17,
+          "commodname": "Yarrow",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "type": "apothecary",
+    "item": "Yellow enamel",
+    "units": 7,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 4,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 6,
+        "commod": {
+          "id": 20,
+          "commodname": "Weld",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "type": "distillery",
+    "item": "Swill",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 7,
+        "commod": {
+          "id": 1,
+          "commodname": "Sugar cane",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "type": "distillery",
+    "item": "Grog",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 1,
+          "commodname": "Sugar cane",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 5,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "type": "distillery",
+    "item": "Fine rum",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 2,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 1,
+          "commodname": "Sugar cane",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 8,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "type": "distillery",
+    "item": "Hemp oil",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "type": "ironMonger",
+    "item": "Small cannon balls",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 3,
+    "skilled": 0,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 5,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "type": "ironMonger",
+    "item": "Medium cannon balls",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 3,
+    "skilled": 2,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 8,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "type": "ironMonger",
+    "item": "Large cannon balls",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 2,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 12,
+        "commod": {
+          "id": 3,
+          "commodname": "Iron",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 4,
+          "commodname": "Wood",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "type": "weavery",
+    "item": "Sail cloth",
+    "units": 50,
+    "doubloons": 0,
+    "basic": 30,
+    "skilled": 10,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 50,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "type": "weavery",
+    "item": "Aqua cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 38,
+          "commodname": "Sincosite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "type": "weavery",
+    "item": "Black cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 5,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 99,
+          "commodname": "Kraken's blood",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "type": "weavery",
+    "item": "Blue cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "type": "weavery",
+    "item": "Brown cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "type": "weavery",
+    "item": "Gold cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 5,
+    "commods": [
+      {
+        "units": 20,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "type": "weavery",
+    "item": "Green cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "type": "weavery",
+    "item": "Grey cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "type": "weavery",
+    "item": "Lavender cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "type": "weavery",
+    "item": "Lemon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "type": "weavery",
+    "item": "Light blue cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "type": "weavery",
+    "item": "Light green cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "type": "weavery",
+    "item": "Lime cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "type": "weavery",
+    "item": "Magenta cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "type": "weavery",
+    "item": "Maroon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 31,
+          "commodname": "Leushite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "type": "weavery",
+    "item": "Mint cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "type": "weavery",
+    "item": "Navy cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 37,
+          "commodname": "Papagoite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "weavery",
+    "item": "Orange cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "weavery",
+    "item": "Peach cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "weavery",
+    "item": "Persimmon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "weavery",
+    "item": "Pink cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "weavery",
+    "item": "Purple cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 30,
+          "commodname": "Lorandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "weavery",
+    "item": "Red cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "weavery",
+    "item": "Rose cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "weavery",
+    "item": "Tan cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "weavery",
+    "item": "Violet cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 1,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "weavery",
+    "item": "White cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "weavery",
+    "item": "Yellow cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 10,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 1,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "weavery",
+    "item": "Fine aqua cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 38,
+          "commodname": "Sincosite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "weavery",
+    "item": "Fine black cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 10,
+    "skilled": 10,
+    "expert": 10,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 99,
+          "commodname": "Kraken's blood",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "type": "weavery",
+    "item": "Fine blue cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 3,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "type": "weavery",
+    "item": "Fine brown cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 16,
+          "commodname": "Old man's beard",
+          "commodclassid": 3,
+          "commodclass": {
+            "id": 3,
+            "commodclass": "Herbs"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "type": "weavery",
+    "item": "Fine gold cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 10,
+    "skilled": 10,
+    "expert": 10,
+    "commods": [
+      {
+        "units": 30,
+        "commod": {
+          "id": 40,
+          "commodname": "Gold nuggets",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "type": "weavery",
+    "item": "Fine green cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 3,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "type": "weavery",
+    "item": "Fine grey cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 3,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "type": "weavery",
+    "item": "Fine lavender cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 7,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "type": "weavery",
+    "item": "Fine lemon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "type": "weavery",
+    "item": "Fine light blue cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "type": "weavery",
+    "item": "Fine light green cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 34,
+          "commodname": "Chalcocite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "type": "weavery",
+    "item": "Fine lime cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "type": "weavery",
+    "item": "Fine magenta cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 2,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "type": "weavery",
+    "item": "Fine maroon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 6,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 31,
+          "commodname": "Leushite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "type": "weavery",
+    "item": "Fine mint cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 7,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 102,
+          "commodname": "Green dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "type": "weavery",
+    "item": "Fine navy cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 6,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 37,
+          "commodname": "Papagoite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "type": "weavery",
+    "item": "Fine orange cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "type": "weavery",
+    "item": "Fine peach cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "type": "weavery",
+    "item": "Fine persimmon cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 4,
+    "skilled": 3,
+    "expert": 1,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "type": "weavery",
+    "item": "Fine pink cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "type": "weavery",
+    "item": "Fine purple cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 6,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 30,
+          "commodname": "Lorandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "weavery",
+    "item": "Fine red cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 3,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "weavery",
+    "item": "Fine rose cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 7,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 36,
+          "commodname": "Serandite",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      },
+      {
+        "units": 4,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "weavery",
+    "item": "Fine tan cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "weavery",
+    "item": "Fine violet cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 2,
+        "commod": {
+          "id": 101,
+          "commodname": "Blue dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      },
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 98,
+          "commodname": "Red dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "weavery",
+    "item": "Fine white cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 4,
+    "expert": 3,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 3,
+        "commod": {
+          "id": 32,
+          "commodname": "Tellurium",
+          "commodclassid": 4,
+          "commodclass": {
+            "id": 4,
+            "commodclass": "Minerals"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "weavery",
+    "item": "Fine yellow cloth",
+    "units": 10,
+    "doubloons": 0,
+    "basic": 5,
+    "skilled": 5,
+    "expert": 0,
+    "commods": [
+      {
+        "units": 15,
+        "commod": {
+          "id": 2,
+          "commodname": "Hemp",
+          "commodclassid": 1,
+          "commodclass": {
+            "id": 1,
+            "commodclass": "Basic commodities"
+          }
+        }
+      },
+      {
+        "units": 2,
+        "commod": {
+          "id": 100,
+          "commodname": "Yellow dye",
+          "commodclassid": 6,
+          "commodclass": {
+            "id": 6,
+            "commodclass": "Dye"
+          }
+        }
+      }
+    ]
+  }
+]

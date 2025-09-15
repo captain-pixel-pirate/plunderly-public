@@ -1,0 +1,12 @@
+{
+  "name": "refresh-yaarg",
+  "version": "1.0.0",
+  "main": "yaarg-refresh.js",
+  "scripts": {
+    "start": "node yaarg-refresh.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7"
+  }
+}
